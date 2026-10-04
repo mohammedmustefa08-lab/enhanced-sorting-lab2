@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\moham\\source\\repos\\enhanced_sorting\\enhanced_sorting\\enhanced_sorting.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\moham\\source\\repos\\enhanced_sorting\\enhanced_sorting\\pch.h",
+            "c:\\users\\moham\\source\\repos\\enhanced_sorting\\enhanced_sorting\\framework.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

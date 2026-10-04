@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\moham\\source\\repos\\enhanced_sorting\\enhanced_sorting\\shaker_sort.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\moham\\source\\repos\\enhanced_sorting\\enhanced_sorting\\shaker_sort.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

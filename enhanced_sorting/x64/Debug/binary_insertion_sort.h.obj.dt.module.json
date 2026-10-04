@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\binary_insertion_sort.obj",
+            "outputs": [
+                "x64\\Debug\\binary_insertion_sort.h.obj.dt.module.json",
+                "x64\\Debug\\binary_insertion_sort.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
