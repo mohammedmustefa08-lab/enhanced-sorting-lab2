@@ -1,0 +1,6 @@
+﻿  main.cpp
+  test_binary_insertion_sort.cpp
+  test_shaker_sort.cpp
+  Generating Code...
+gtestd.lib(gtest-all.obj) : warning LNK4099: PDB 'gtestd.pdb' was not found with 'gtestd.lib(gtest-all.obj)' or at 'C:\Users\moham\source\repos\enhanced_sorting\x64\Debug\gtestd.pdb'; linking object as if no debug info
+  tests.vcxproj -> C:\Users\moham\source\repos\enhanced_sorting\x64\Debug\tests.exe

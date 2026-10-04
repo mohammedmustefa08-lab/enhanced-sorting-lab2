@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="enhanced_sorting/enhanced_sorting.vcxproj" />
+  <Project Path="tests/tests.vcxproj" />
+</Solution>
